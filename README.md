@@ -202,3 +202,5 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 ## Contact
 
 For any inquiries regarding this e-commerce backend, feel free to reach me at [my email](mailto:khaleelpaulgreen.code@gmail.com).
+
+[back to top](#table-of-contents)
