@@ -1,5 +1,15 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
+## Table of Contents
+
+* [Walkthrough](#walkthrough)
+* [Description](#description)
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Screenshots](#screenshots)
+* [Usage](#usage)
+* [Contact](#contact)
+
 ## Walkthrough
 
 Link: [Walkthrough](https://youtu.be/gSFzuKZZeqc)
@@ -52,7 +62,7 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
-## Getting Started
+## Usage
 
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
 
